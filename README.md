@@ -1,4 +1,4 @@
-# Internship-Projects
+# ML Improvement Project
 
 ## Improving the microservice inside the company's database:
 
